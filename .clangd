@@ -1,0 +1,7 @@
+CompileFlags:
+  CompilationDatabase: "build"
+  Add: [
+    "-target", "i386-unknown-none-elf",
+    "-ffreestanding",
+    "-m32"
+  ]

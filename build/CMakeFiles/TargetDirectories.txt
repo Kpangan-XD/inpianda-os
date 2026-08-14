@@ -1,0 +1,4 @@
+/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build/CMakeFiles/inpianda-os.bin.dir
+/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build/CMakeFiles/run.dir
+/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build/CMakeFiles/edit_cache.dir
+/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build/CMakeFiles/rebuild_cache.dir

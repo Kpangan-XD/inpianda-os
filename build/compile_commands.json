@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/main/main.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/main/main.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/main/main.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/main/main.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/driver/driver.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/driver/driver.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/driver/driver.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/driver/driver.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/window/window.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/window/window.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/window/window.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/window/window.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/io/io.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/io/io.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/io/io.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/io/io.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/cursor/cursor.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/cursor/cursor.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/cursor/cursor.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/cursor/cursor.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/kernel/kernel.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/kernel/kernel.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/kernel/kernel.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/kernel/kernel.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/keyboard/keyboard.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/keyboard/keyboard.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/keyboard/keyboard.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/keyboard/keyboard.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/screen/screen.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/screen/screen.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/screen/screen.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/screen/screen.cc.o"
+},
+{
+  "directory": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/build",
+  "command": "/usr/bin/g++  -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/cursor\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/driver\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/io\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/kernel\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/keyboard\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/screen\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/system\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/window\" -I\"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/include/define\"  -m32 -ffreestanding -O3 -fno-exceptions -fno-rtti -fno-pie -nostdlib -g -std=gnu++17 -o CMakeFiles/inpianda-os.bin.dir/core/system/system.cc.o -c \"/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/system/system.cc\"",
+  "file": "/run/media/Kpangan/DATA BIMA SSD/PROJECT/os/os/core/system/system.cc",
+  "output": "CMakeFiles/inpianda-os.bin.dir/core/system/system.cc.o"
+}
+]
