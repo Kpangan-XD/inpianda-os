@@ -43,32 +43,7 @@
 // extern "C" char keyboard();
 **/
 
-void loop() {
 
-  inp::dprintfs("a", 0, 0, 0x7F);
-
-  inp::dprintfs("b", 0, 0, 0x7F);
-
-  inp::dprintfs("c", 0, 0, 0x7F);
-
-  inp::dprintfs("a", 0, 0, 0x7F);
-
-  inp::dprintfs("b", 0, 0, 0x7F);
-
-  inp::dprintfs("c", 0, 0, 0x7F);
-
-  inp::dprintfs("a", 0, 0, 0x7F);
-
-  inp::dprintfs("b", 0, 0, 0x7F);
-
-  inp::dprintfs("c", 0, 0, 0x7F);
-
-  inp::dprintfs("a", 0, 0, 0x7F);
-
-  inp::dprintfs("b", 0, 0, 0x7F);
-
-  inp::dprintfs("c", 0, 0, 0x7F);
-}
 int cursor_x = 0;
 int cursor_y = 0;
 volatile char *const video_memory = (volatile char *)0xB8000;
@@ -102,7 +77,6 @@ extern "C" void main_() {
   inp::dprintfs("hauddddddddddddddddddddddddddddddddddddddddddd", 10, 8, 0x7F);
   inp::dprintfs("maka", 10, 9, 0x7F);
   while (true) {
-    loop();
     char scancode = keyboard();
 
     if (scancode != 0) {
